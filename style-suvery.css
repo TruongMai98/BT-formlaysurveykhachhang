@@ -1,0 +1,27 @@
+.font1{
+    font-weight: bold;
+}
+.font2{
+    text-align: left;
+}
+
+/*table{
+    border-collapse: collapse;
+}*/
+.th1{
+    text-align: left;
+}
+.table1, .th1, .td1, .th2{
+    border: 0.5px solid black;
+    border-collapse: collapse;
+}
+.td1{
+    text-align: center;
+}
+.select1{
+    width: 300px;
+}
+.textarea1{
+    width: 738px;
+    height: 138px;
+}
